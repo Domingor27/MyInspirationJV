@@ -17,6 +17,6 @@ public class TestEmpleado
 	    System.out.println("\n....................................................................\n");
 	    System.out.println(" Jefe: "+Objeto1.Nombre()+""+Objeto1.Procesar_Salario());
 	    System.out.println(" Técnico: "+Objeto2.Nombre()+""+Objeto2.Procesar_Salario());
-            System.out.println(" ");
+        System.out.println(" ");
 	}
 }
